@@ -1,0 +1,2 @@
+OS=$(shell uname)
+all:
